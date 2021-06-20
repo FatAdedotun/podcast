@@ -279,6 +279,21 @@ h1{
     color: black;
 }
 
+.copyright{
+    background-color: #2b354f;
+    padding: 23px 0;
+}
+
+.copyright p{
+    text-align: center;
+    color: #fff;
+}
+
+.copyright p a{
+    color: #1abc9c;
+    text-decoration: none;
+}
+
 @media(max-width: 500px){
     .col-1-col-1,
     .col-2-col-1,
